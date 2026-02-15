@@ -61,8 +61,8 @@ I'm a **Product Designer** and **Fullstack Developer** passionate about building
 
 ## 🌐 connect with me
 
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile
-- 🐦 Twitter: https://twitter.com/yourhandle
+- LinkedIn: https://linkedin.com/in/adeolu-akinde-67b7371b3/
+- Twitter: https://twitter.com/klausigner
 
 ---
 
