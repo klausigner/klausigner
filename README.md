@@ -10,7 +10,7 @@ I'm a **Product Designer** and **Fullstack Developer** passionate about building
 - [X] I like to read tech news.💻📰
 - [X] I'm secretly interested in game development.🕹️🤫
 - [X] I love gaming and football.🎮⚽
-- [X] I'm an AI/A2 german speaker.🇩🇪 Germany🌍
+- [X] I'm an AI german speaker.🗣️🌍
 
 ---
 
@@ -24,8 +24,9 @@ I'm a **Product Designer** and **Fullstack Developer** passionate about building
 ###### \<Frontend Development\>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -49,13 +50,6 @@ I'm a **Product Designer** and **Fullstack Developer** passionate about building
 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Parcel](https://img.shields.io/badge/Parcel-FF6C37?style=for-the-badge&logo=parcel&logoColor=white)
-
----
-
-## 📊 github stats
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=klausigner&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=klausigner&layout=compact&theme=tokyonight)
 
 ---
 
