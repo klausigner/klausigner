@@ -39,7 +39,7 @@ I'm a **Product Designer** and **Fullstack Developer** passionate about building
 
 ###### \<Databases\>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-ffffff?style=for-the-badge&logo=mongodb&logoColor=47A248&color=47A248)
+![MongoDB](https://img.shields.io/badge/MongoDB-ffffff?style=for-the-badge&logo=mongodb&logoColor=47A248&color=ffffff)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ###### \<Package Managers\>
