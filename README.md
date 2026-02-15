@@ -1,4 +1,4 @@
-# 👋🏽 hi, i'm adeolu
+## 👋🏽 hello, i'm adeolu
 
 I'm a **Product Designer** and **Fullstack Developer** passionate about building scalable applications that solve problems.
 
@@ -10,6 +10,7 @@ I'm a **Product Designer** and **Fullstack Developer** passionate about building
 - [X] I like to read tech news.💻📰
 - [X] I'm secretly interested in game development.🕹️🤫
 - [X] I love gaming and football.🎮⚽
+- [X] I'm an AI/A2 german speaker.🇩🇪🌍
 
 ---
 
@@ -54,7 +55,6 @@ I'm a **Product Designer** and **Fullstack Developer** passionate about building
 ## 📊 github stats
 
 ![Akinde's GitHub stats](https://github-readme-stats.vercel.app/api?username=akinde&show_icons=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akinde&layout=compact&theme=tokyonight)
 
 ---
