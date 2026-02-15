@@ -1,4 +1,4 @@
-## 👋🏽 hello, i'm adeolu
+## 👋🏽 hi there, i'm adeolu
 
 I'm a **Product Designer** and **Fullstack Developer** passionate about building scalable applications that solve problems.
 
