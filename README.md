@@ -10,7 +10,7 @@ I'm a **Product Designer** and **Fullstack Developer** passionate about building
 - [X] I like to read tech news.💻📰
 - [X] I'm secretly interested in game development.🕹️🤫
 - [X] I love gaming and football.🎮⚽
-- [X] I'm an AI german speaker.🗣️🌍
+- [X] I'm an A1 german speaker.🗣️🌍
 
 ---
 
